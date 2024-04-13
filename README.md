@@ -31,7 +31,7 @@ This is a front-end web development project aims to provide an aesthetically ple
   
 ## Getting Started
 
-To view the website, simply open `https://tokakhaled4.github.io/Candle_Store_Website/` in a web browser.
+To view the website, simply [click here](https://tokakhaled4.github.io/Candle_Store_Website/).
 
 ---
 
